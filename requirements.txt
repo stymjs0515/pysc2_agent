@@ -1,0 +1,5 @@
+numpy
+cloudpickle
+s2clientprotocol
+absl
+pysc2
